@@ -1,0 +1,58 @@
+.Header {
+  height: 50%;
+  background: rgb(63, 94, 251);
+  background: linear-gradient(
+    90deg,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(82, 70, 252, 1) 100%
+  );
+}
+.Header H1 {
+  text-align: center;
+}
+.CardC {
+  margin: 20px;
+  background: rgb(63, 94, 251);
+  background: linear-gradient(
+    90deg,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(82, 70, 252, 1) 100%
+  );
+  width: 50%;
+}
+
+.CardC p {
+  text-align: left;
+}
+
+.imgContainer {
+  padding-top: 5px;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.CardTik {
+  padding-top: 50px;
+}
+.CardN {
+  background: rgb(63, 94, 251);
+  background: linear-gradient(
+    90deg,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(82, 70, 252, 1) 100%
+  );
+  width: 50%;
+}
+
+.div1 {
+  width: 50%;
+  float: left;
+}
+
+.div2 {
+  width: 50%;
+  float: right;
+}
