@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Examen12/static/css/main.fbb786b0.chunk.css",
+    "main.js": "/Examen12/static/js/main.dae975c5.chunk.js",
+    "main.js.map": "/Examen12/static/js/main.dae975c5.chunk.js.map",
+    "runtime-main.js": "/Examen12/static/js/runtime-main.0dee779c.js",
+    "runtime-main.js.map": "/Examen12/static/js/runtime-main.0dee779c.js.map",
+    "static/js/2.5c93842e.chunk.js": "/Examen12/static/js/2.5c93842e.chunk.js",
+    "static/js/2.5c93842e.chunk.js.map": "/Examen12/static/js/2.5c93842e.chunk.js.map",
+    "index.html": "/Examen12/index.html",
+    "static/css/main.fbb786b0.chunk.css.map": "/Examen12/static/css/main.fbb786b0.chunk.css.map",
+    "static/js/2.5c93842e.chunk.js.LICENSE.txt": "/Examen12/static/js/2.5c93842e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dee779c.js",
+    "static/js/2.5c93842e.chunk.js",
+    "static/css/main.fbb786b0.chunk.css",
+    "static/js/main.dae975c5.chunk.js"
+  ]
+}
